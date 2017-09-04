@@ -1,9 +1,9 @@
 ﻿{
-	"name": "Domination",
-	"short_name": "Domination",
+	"name": "bChao3",
+	"short_name": "bChao3",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "portrait",
+	"orientation": "landscape",
 	"icons": [{
 		"src": "icon-16.png",
 		"sizes": "16x16",
