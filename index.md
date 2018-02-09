@@ -12,9 +12,11 @@ Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo
 
 ## Games
 
+
+
 [Cacique](https://joozi.github.io/Cacique/)
 
-[Domination](https://joozi.github.io/Domination/)
+[![](Domination.png)](https://joozi.github.io/Domination/)
 
 [Time IF](https://ortegagamer.github.io/GAMES/TimeIF/)
 
