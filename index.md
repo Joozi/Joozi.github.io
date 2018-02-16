@@ -8,7 +8,7 @@ Criando *minha*, página, ~principal~.
 
 Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo.
 [![](facebook.png)](https://www.facebook.com/jozielle.santos.378)  
-[![](insta.png)](https://www.instagram.com/jozielles/)  
+[![](Insta.png)](https://www.instagram.com/jozielles/)  
 
 
 # Portfólio
