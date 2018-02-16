@@ -7,7 +7,7 @@ Criando *minha*, página, ~principal~.
 # Quem sou eu 
 
 Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo.
-[![](Faceboo.png)](https://www.facebook.com/jozielle.santos.378)  
+[![](Facebook.png)](https://www.facebook.com/jozielle.santos.378)  
 [![](Insta.png)](https://www.instagram.com/jozielles/)  
 
 
