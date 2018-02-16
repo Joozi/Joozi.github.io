@@ -7,6 +7,9 @@ Criando *minha*, página, ~principal~.
 # Quem sou eu 
 
 Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo.
+[![](facebook.png)](https://www.facebook.com/jozielle.santos.378)
+[![](instagram.png)](https://www.instagram.com/jozielles/)
+
 
 # Portfólio
 
@@ -29,7 +32,7 @@ Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo
 * Proj jogos
 
 1. Marcelo
-2. Saula
+2. Saulo
 3. Idelmárcia
 
 ## Projetos
