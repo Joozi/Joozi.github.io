@@ -14,7 +14,7 @@ Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo
 
 
 
-[Cacique](https://joozi.github.io/Cacique/)
+[![](Cacique.png)](https://joozi.github.io/Cacique/)  
 
 [![](Domination.png)](https://joozi.github.io/Domination/)
 
