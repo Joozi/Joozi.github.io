@@ -6,7 +6,7 @@ Criando *minha*, página, ~principal~.
 
 # Quem sou eu 
 
-Aluninha de Jogos, aprendendo a fazer portfólio com o prof. maravilhoso Marcelo.
+Meu nome é Joziele tenho 19 anos e estou cursando Jogos Digitais 
 [![](Face.png)](https://www.facebook.com/jozielle.santos.378)  
 [![](Insta.png)](https://www.instagram.com/jozielles/)  
 
