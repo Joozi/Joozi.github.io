@@ -5,7 +5,7 @@ layout: default
 Criando *minha*, página, ~principal~.
 
 # Quem sou eu 
-[![](Perfil.jpg)]
+[![](Perfil.png)]
 
 Meu nome é Joziele Santos  
 Tenho 19 anos   
