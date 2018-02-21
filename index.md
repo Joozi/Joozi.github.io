@@ -10,7 +10,7 @@ Criando *minha*, página, ~principal~.
 Meu nome é Joziele Santos  
 Tenho 19 anos   
 Estudo no IFRN Ceara-Mirim  
-Cursando Jogos Digitais
+Cursando Jogos Digitais  
 Muito comunicativa  
 
 [![](face2.png)](https://www.facebook.com/jozielle.santos.378)  
