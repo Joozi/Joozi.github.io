@@ -7,10 +7,7 @@ Criando *minha*, página, ~principal~.
 # Quem sou eu 
 [![](Perfil.jpg)]
 
-
-
-
-Meu nome é Joziele tenho 19 anos e estou cursando Jogos Digitais  
+Meu nome é Joziele      
 [![](face2.png)](https://www.facebook.com/jozielle.santos.378)  
 [![](Insta.png)](https://www.instagram.com/jozielles/)  
 
