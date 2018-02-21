@@ -5,7 +5,7 @@ layout: default
 Criando *minha*, página, ~principal~.
 
 # Quem sou eu 
-
+[![](Perfil.jpg)]
 Meu nome é Joziele tenho 19 anos e estou cursando Jogos Digitais  
 [![](face2.png)](https://www.facebook.com/jozielle.santos.378)  
 [![](Insta.png)](https://www.instagram.com/jozielles/)  
