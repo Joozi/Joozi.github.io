@@ -24,7 +24,7 @@ Muito comunicativa
 
 
 [![](Cacique.png)](https://joozi.github.io/Cacique/)  
-*O jogo Cacique 
+* O jogo Cacique 
 
 [![](Domination.png)](https://joozi.github.io/Domination/)
 
