@@ -13,7 +13,7 @@ Estudo no IFRN Ceara-Mirim
 Cursando Jogos Digitais  
 Muito comunicativa  
 
-[![](face2.png)](https://www.facebook.com/jozielle.santos.378)  
+[![](facebook4.png)](https://www.facebook.com/jozielle.santos.378)  
 [![](Insta.png)](https://www.instagram.com/jozielles/)  
 
 
