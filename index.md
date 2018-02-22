@@ -25,6 +25,8 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 
 # [![](Domination.png)](https://joozi.github.io/Domination/)
 
+* _Descrição: O Domination é um jogo de ação dividido em fases que se faz necessário passar obstaculos ocultos, barra de vida e que ao ser tocada reinicia todo o jogo._ 
+
 
 * * * 
 
@@ -40,10 +42,16 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 
 # ![](influence.png)  
 
+* _Descrição: Influence Map são imagens que servem de inspiração para criação de nossas proiprias artes._
+
 * * * 
 
 # _Projetos_  
 * _Proj. TPM_
+* _Objetivo:
+Investigar a prevalência da TPM entre um grupo de mulheres da cidade de Ceará-Mirim e criar um website que possa ser veículo de informação sobre o tema.
+
+
 * _Proj. Música_
 * _Proj. jogos_
 
