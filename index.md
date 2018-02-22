@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# Bem-vindo ao meu Portfólio
+# _Bem-vindo ao meu Portfólio_
 
-# Quem sou eu 
+# _Quem sou eu_ 
 # ![](Perfil.png)
 
 Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim, onde estou cursando Programação de Jogos Digitais.   
 
-# Redes sociais
+# _Redes sociais_
 
 * _Facebook: [Jozielle Santos](https://www.facebook.com/jozielle.santos.378)_
 * _Instagram: [jozielles](https://www.instagram.com/jozielles/)_
@@ -17,7 +17,7 @@ Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim, 
 
 * * * 
 
-# Games
+# _Games_
 
 # [![](Cacique.png)](https://joozi.github.io/Cacique/)  
 
@@ -27,7 +27,7 @@ Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim, 
 
 * * * 
 
-## Artes
+## _Artes_
 # ![Pikachu](https://userscontent2.emaze.com/images/a95fc4c6-85de-41e5-aabf-0f03f3e2645b/e6d0ff9404f9660db71698d0c17493e3.png)  
 
 # ![Comida](https://s3.amazonaws.com/kandipatternspatterns/food/18909__pizza.png)    
@@ -35,13 +35,13 @@ Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim, 
 
 * * * 
 
-# Influence Map
+# _Influence Map_
 
 # ![](influence.png)  
 
 * * * 
 
-# Projetos  
+# _Projetos_  
 * Projeto TPM
 * Proj Musica
 * Proj jogos
