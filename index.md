@@ -2,14 +2,12 @@
 layout: default
 ---
 
+# Bem-vindo ao meu Portfólio
+
 # Quem sou eu 
 # ![](Perfil.png)
 
-Meu nome é Joziele Santos  
-Tenho 19 anos   
-Estudo no IFRN Ceara-Mirim  
-Cursando Jogos Digitais  
-Muito comunicativa  
+Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim, onde estou cursando Programação de Jogos Digitais.   
 
 # Redes sociais
 
