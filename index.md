@@ -48,10 +48,12 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 
 # _Projetos_  
 # _TPM_
-* _Objetivo:Investigar a prevalência da TPM entre um grupo de mulheres da cidade de Ceará-Mirim e criar um website que possa ser veículo de informação sobre o tema._
+* _Objetivo: Investigar a prevalência da TPM entre um grupo de mulheres da cidade de Ceará-Mirim e criar um website que possa ser veículo de informação sobre o tema._
 
 
-* _Proj. Música_
+# _ Música_
+* _Objetivo: descobrir pessoas que tinha aptidão na arte da dança, teatro e canto, sendo  aprensento em um musical na propria instituição._
+
 * _Proj. jogos_
 
 * * *
