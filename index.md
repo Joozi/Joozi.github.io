@@ -11,8 +11,11 @@ Estudo no IFRN Ceara-Mirim
 Cursando Jogos Digitais  
 Muito comunicativa  
 
-[![](face4.png)](https://www.facebook.com/jozielle.santos.378)  
-[![](Insta.png)](https://www.instagram.com/jozielles/)  
+# Redes sociais
+
+* _Facebook: [Jozielle Santos](https://www.facebook.com/jozielle.santos.378)_
+* _Instagram: [jozielles](https://www.instagram.com/jozielles/)_
+* _E-mail: joziele.santos98@gmail.com
 
 * * * 
 
