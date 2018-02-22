@@ -54,7 +54,7 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 # _Música_
 * _Objetivo: descobrir pessoas que tinha aptidão na arte da dança, teatro e canto, sendo  aprensento em um musical na propria instituição._
 
-* _Proj. jogos_
-
+# _Jogos_
+* _Objetivo: todo bimestre é dado um tema na qual é elaborado um jogo em cima do mesmo e este jogo, tem o intuito de colocar em prática os conhecimentos obtidos nas matérias de motores e multímidia._
 * * *
 
