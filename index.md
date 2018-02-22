@@ -23,8 +23,6 @@ Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim, 
 
 # [![](Domination.png)](https://joozi.github.io/Domination/)
 
-# [Time IF](https://ortegagamer.github.io/GAMES/TimeIF/)
-
 * * * 
 
 ## _Artes_
