@@ -21,7 +21,10 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 
 # [![](Cacique.png)](https://joozi.github.io/Cacique/)  
 
+* _Descrição: O jogo Cacique tem como objetivo fazer o personagem chegar ao final para conquistar a índia e, para isso, ele precisará coletar comidas sem perdar as vidas disponíveis na fase._ 
+
 # [![](Domination.png)](https://joozi.github.io/Domination/)
+
 
 * * * 
 
