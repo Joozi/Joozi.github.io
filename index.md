@@ -15,7 +15,7 @@ Muito comunicativa
 
 * _Facebook: [Jozielle Santos](https://www.facebook.com/jozielle.santos.378)_
 * _Instagram: [jozielles](https://www.instagram.com/jozielles/)_
-* _E-mail: joziele.santos98@gmail.com
+* _E-mail: joziele.santos98@gmail.com_
 
 * * * 
 
