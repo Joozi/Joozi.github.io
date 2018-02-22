@@ -7,7 +7,7 @@ layout: default
 # _Um pouco sobre mim..._ 
 # ![](eu.png)
 
-Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim, onde estou cursando Programação de Jogos Digitais.   
+_Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim, onde estou cursando Programação de Jogos Digitais._   
 
 # _Redes sociais_
 
@@ -40,9 +40,9 @@ Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim, 
 * * * 
 
 # _Projetos_  
-* Projeto TPM
-* Proj Musica
-* Proj jogos
+* _Projeto TPM_
+* _Proj Musica_
+* _Proj jogos_
 
 * * *
 
