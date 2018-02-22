@@ -24,7 +24,7 @@ Muito comunicativa
 
 
 [![](Cacique.png)](https://joozi.github.io/Cacique/)  
-* O jogo Cacique 
+* Cacique foi o primeiro jogo que desenvolvemos com a ajuda do professor Marcelo   
 
 [![](Domination.png)](https://joozi.github.io/Domination/)
 
