@@ -36,9 +36,6 @@ Muito comunicativa
 ![Comida](https://s3.amazonaws.com/kandipatternspatterns/food/18909__pizza.png)  
 
 
-1. Marcelo
-2. Saulo
-3. Idelmárcia
 
 ## Projetos  
 * Projeto TPM
