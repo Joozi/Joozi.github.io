@@ -43,7 +43,7 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 * * * 
 
 # _Projetos_  
-* _Projeto TPM_
+* _Proj. TPM_
 * _Proj. Música_
 * _Proj. jogos_
 
