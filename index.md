@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Quem sou eu 
-[![](Perfil.png)]
+# ![](Perfil.png)
 
 Meu nome é Joziele Santos  
 Tenho 19 anos   
@@ -16,7 +16,7 @@ Muito comunicativa
 
 * * * 
 
-## Games
+# Games
 
 [![](Cacique.png)](https://joozi.github.io/Cacique/)  
 * Cacique foi o primeiro jogo que desenvolvemos com a ajuda do professor Marcelo   
@@ -36,7 +36,7 @@ Muito comunicativa
 
 * * * 
 
-## Projetos  
+# Projetos  
 * Projeto TPM
 * Proj Musica
 * Proj jogos
