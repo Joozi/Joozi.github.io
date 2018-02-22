@@ -5,7 +5,7 @@ layout: default
 # _Bem-vindo ao meu Portfólio_
 
 # _Quem sou eu_ 
-# ![](Perfil.png)
+# ![](eu.png)
 
 Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim, onde estou cursando Programação de Jogos Digitais.   
 
