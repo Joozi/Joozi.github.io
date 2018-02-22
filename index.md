@@ -35,7 +35,7 @@ Muito comunicativa
 
 ![Comida](https://s3.amazonaws.com/kandipatternspatterns/food/18909__pizza.png)  
 
-![Mapa Influence.png]](file:///C:/Users/20151170150623/Downloads/Trabalho%20Influence%20Map.pdf)
+![Mapa Influence.png](file:///C:/Users/20151170150623/Downloads/Trabalho%20Influence%20Map.pdf)
 
 ## Projetos  
 * Projeto TPM
