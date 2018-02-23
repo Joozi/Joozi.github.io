@@ -25,7 +25,7 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 
 # [![](Domination.png)](https://joozi.github.io/Domination/)
 
-* _Descrição: O Domination é um jogo de ação dividido em fases que se faz necessário passar obstaculos ocultos, barra de vida e que ao ser tocada reinicia todo o jogo._ 
+* _Descrição: O Domination é um jogo de ação dividido em fases que é necessário passar obstaculos ocultos, barra de vida e que ao ser tocada reinicia todo o jogo._ 
 
 
 * * * 
@@ -36,7 +36,7 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 * _Descrição: Nesta animaçao foi usada alguns principios de animaçao._ 
 # _Caindo_
 # ![](Caindo.gif)
-* _Descrição: Usei a animaçao "Pose a Pose" no momento em que ele topa no objeto amarelo, usei o "Teming" cada frame possui uma velocidade diferente._
+* _Descrição: Usei o príncipio de animção "Pose a Pose" no momento em que ele topa no objeto amarelo, usei o "Teming" cada frame possui uma velocidade diferente._
 
 
 # _Artes_
