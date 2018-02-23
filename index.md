@@ -52,7 +52,7 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 
 # ![](influence.png)  
 
-* _Descrição: Influence Map são imagens que servem de inspiração para criação de nossas proiprias artes._
+* _Descrição: Influence Map são imagens que servem de inspiração para a criação de nossas proiprias artes._
 
 * * * 
 
