@@ -70,16 +70,23 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 * * * 
 
 # _Projetos_  
+
 # _TPM_
 * _**Objetivo:** Investigar como ocorre a TPM em um grupo de mulheres na cidade de Ceará-Mirim, e criar um website que possa servir como um canal de informação sobre o tema._
 
+*Orientadora: Videanny Videnov._
+
 # _Música_
 * _**Objetivo:** Descobrir pessoas que tenham aptidão na arte da dança, teatro e canto, sendo aprensentado um musical na própria instituição. Esse musical corresponde ao CIA Musical Tiê._
+
+* _Orientadora: Gislene Araújo._
 
 # ![](tie.png)
 
 # _Jogos_
 * _**Objetivo:** Todo bimestre é dado um tema no qual é elaborado um jogo em cima do mesmo, e, este jogo, tem como intuito colocar em prática os conhecimentos obtidos nas matérias de Motores de Jogos II e Animação e Multímidia._
+
+* _Orientador: Marcelo Barros._
 
 * * *
 
