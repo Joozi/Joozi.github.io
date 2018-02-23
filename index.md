@@ -33,6 +33,9 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 # _Animaçães_
 # _Andando_
 # ![](Andando.gif)
+* _Descrição: Nesta animaçao foi usada alguns principios de animaçao._ 
+# _Correndo_
+
 
 
 # _Artes_
