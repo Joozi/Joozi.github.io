@@ -30,6 +30,10 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 
 * * * 
 
+# _Animaçães_
+# _Andando_
+
+
 # _Artes_
 # ![Pikachu](https://userscontent2.emaze.com/images/a95fc4c6-85de-41e5-aabf-0f03f3e2645b/e6d0ff9404f9660db71698d0c17493e3.png)  
 
