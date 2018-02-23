@@ -47,7 +47,7 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 
 # _Artes_
 
-# Jogo: Cacique
+# Jogo: _Cacique_
 
 # ![](cobra.png)
 
@@ -55,7 +55,7 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 
 # ![](leao.png)
 
-# Jogo: Domination
+# Jogo: _Domination_
 
 # ![](personagem.png)
 
