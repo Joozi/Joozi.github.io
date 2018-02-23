@@ -31,12 +31,13 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 * * * 
 
 # _Animaçães_
+
 # _Andando_
 # ![](Andando.gif)
-* _Descrição: Nesta animaçao foi usada alguns principios de animaçao._ 
+
 # _Caindo_
 # ![](Caindo.gif)
-* _Descrição: Usei o príncipio de animção "Pose a Pose" no momento em que ele topa no objeto amarelo, usei o "Teming" cada frame possui uma velocidade diferente._
+
 
 * * *
 
