@@ -38,6 +38,7 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 # ![](Caindo.gif)
 * _Descrição: Usei o príncipio de animção "Pose a Pose" no momento em que ele topa no objeto amarelo, usei o "Teming" cada frame possui uma velocidade diferente._
 
+* * *
 
 # _Artes_
 # ![Pikachu](https://userscontent2.emaze.com/images/a95fc4c6-85de-41e5-aabf-0f03f3e2645b/e6d0ff9404f9660db71698d0c17493e3.png)  
@@ -57,13 +58,13 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 
 # _Projetos_  
 # _TPM_
-* _Objetivo: Investigar a prevalência da TPM entre um grupo de mulheres da cidade de Ceará-Mirim e criar um website que possa ser veículo de informação sobre o tema._
-
+* _**Objetivo:** Investigar como ocorre a TPM em um grupo de mulheres na cidade de Ceará-Mirim, e criar um website que possa servir como um canal de informação sobre o tema._
 
 # _Música_
-* _Objetivo: descobrir pessoas que tinha aptidão na arte da dança, teatro e canto, sendo  aprensento em um musical na propria instituição._
+* _**Objetivo:** Descobrir pessoas que tenham aptidão na arte da dança, teatro e canto, sendo aprensentado um musical na própria instituição._
 
 # _Jogos_
-* _Objetivo: todo bimestre é dado um tema na qual é elaborado um jogo em cima do mesmo e este jogo, tem o intuito de colocar em prática os conhecimentos obtidos nas matérias de motores e multímidia._
+* _**Objetivo:** Todo bimestre é dado um tema no qual é elaborado um jogo em cima do mesmo, e, este jogo, tem como intuito colocar em prática os conhecimentos obtidos nas matérias de Motores de Jogos II e Animação e Multímidia._
+
 * * *
 
