@@ -38,6 +38,7 @@ _Meu nome é Joziele Santos, tenho 19 anos e estudo no IFRN Campus Ceará-Mirim,
 # ![](Caindo.gif)
 * _Descrição: Usei a animaçao "Pose a Pose" no momento em que ele topa no objeto amarelo, usei o "Teming" cada frame possui uma velocidade diferente._
 
+
 # _Artes_
 # ![Pikachu](https://userscontent2.emaze.com/images/a95fc4c6-85de-41e5-aabf-0f03f3e2645b/e6d0ff9404f9660db71698d0c17493e3.png)  
 
